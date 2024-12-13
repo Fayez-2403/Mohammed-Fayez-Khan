@@ -1,0 +1,9 @@
+Node.js is a runtime environment that allows developers to execute JavaScript code outside the browser. Built on Google Chrome's V8 JavaScript engine, Node.js enables developers to build fast and scalable network applications.
+
+At its core, Node.js uses an event-driven, non-blocking I/O model, which makes it lightweight and efficient. This design is particularly suited for data-intensive real-time applications, such as chat servers and streaming platforms.
+
+Node.js offers a rich ecosystem of libraries and tools through its package manager, npm. Developers can leverage these modules to build server-side applications, APIs, command-line tools, and more.
+
+One of Node.js's key features is its single-threaded nature. While it uses a single thread for the main event loop, it can handle multiple I/O operations concurrently by delegating them to worker threads. This makes Node.js highly efficient for handling simultaneous requests.
+
+Overall, Node.js has revolutionized back-end development by enabling JavaScript to be used as a full-stack language. Its versatility, performance, and active community make it a valuable tool for modern software development.

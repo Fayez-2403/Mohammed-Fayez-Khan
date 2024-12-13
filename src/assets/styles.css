@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles */
+body {
+  font-family: 'Inter', sans-serif; /* Replace with preferred font */
+}
+
+/* Custom hover transitions for links */
+a:hover {
+  transition: color 0.3s ease-in-out;
+}
+
+/* Custom button styles (if needed) */
+button {
+  @apply bg-blue-500 text-white font-semibold py-2 px-4 rounded-lg;
+  @apply hover:bg-blue-700;
+}
