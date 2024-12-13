@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fayez-2403/Mohammed-Fayez-Khan.git/static/css/main.48c9b6fe.css",
+    "main.js": "/Fayez-2403/Mohammed-Fayez-Khan.git/static/js/main.44af9e63.js",
+    "static/media/jiitlogo.png": "/Fayez-2403/Mohammed-Fayez-Khan.git/static/media/jiitlogo.2dffbb36088eadc7c4cd.png",
+    "static/media/logo.JPG": "/Fayez-2403/Mohammed-Fayez-Khan.git/static/media/logo.8a2dc9b28e94012981c5.JPG",
+    "static/media/highschool.jpeg": "/Fayez-2403/Mohammed-Fayez-Khan.git/static/media/highschool.1723523499e54def5bf9.jpeg",
+    "index.html": "/Fayez-2403/Mohammed-Fayez-Khan.git/index.html",
+    "main.48c9b6fe.css.map": "/Fayez-2403/Mohammed-Fayez-Khan.git/static/css/main.48c9b6fe.css.map",
+    "main.44af9e63.js.map": "/Fayez-2403/Mohammed-Fayez-Khan.git/static/js/main.44af9e63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c9b6fe.css",
+    "static/js/main.44af9e63.js"
+  ]
+}
